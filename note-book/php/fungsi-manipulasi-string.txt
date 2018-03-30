@@ -1,0 +1,11 @@
+# berisi fungsi-fungsi yang menurut saya penting 
+# by oky-saputra 
+# create 30-03-2018
+#--------------------------------------------------------------
+
+
+explode(string $delimiter , string $string)
+-------------------------------------------
+fungis : memecah string menjadi array   
+
+
