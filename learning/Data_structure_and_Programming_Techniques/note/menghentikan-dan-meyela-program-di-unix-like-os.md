@@ -9,9 +9,9 @@ Menangguhkan (Suspend) proses
 ```
 ctrl-Z
 ```
-__ jobs __ -> daftar semua proses yang di hentikan
-** fg ** -> restart proses terakhir
-** bg ** -> untuk terus menjalankan proses yang di hentikan di balik layar
+**jobs** -> daftar semua proses yang di hentikan
+**fg** -> restart proses terakhir
+**bg** -> untuk terus menjalankan proses yang di hentikan di balik layar
 
 Mengirim end-of-file ke sebuah proses
 ```
