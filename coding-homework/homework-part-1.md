@@ -4,3 +4,4 @@
 - apa perbedaan fungsi empty() dan isset() di dalam php ?
 - buat fungsi rupiah di php 
 - pelajari tentang unit testing (automate testing)
+- pelajari tentang ACID di database
