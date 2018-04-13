@@ -5,3 +5,8 @@
 - buat fungsi rupiah di php 
 - pelajari tentang unit testing (automate testing)
 - pelajari tentang ACID di database
+- pelajari one to many\ 
+           one to many dengan join table\
+		   inheritance dengan single table\
+           inheritance, satu tabel per class
+- pelajari Apa itu mass assignment? Apa problemnya?
