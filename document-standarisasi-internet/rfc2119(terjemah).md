@@ -22,7 +22,17 @@ Abstrak
     Didalam banyak dokument standar beberapa kata di gunakan untuk menandakan persyaratan di dalam
     spesifikasi. kata kata ini sering mengunakan huruf kapital. Dokument ini mendefinisikan kata-kata ini 
     karena harus ditafsirkan dalam dokumen IETF. Penulis yang mengikuti panduan ini harus memasukan frasa 
-    ini di awal dokumen mereka.
+    ini di awal dokumen mereka :
+
+		Kata Kuncinya "HARUS", "TIDAK HARUS", "WAJIB", "BOLEH", "TIDAK BOLEH", "SEBAIKNYA", "JANGAN", 
+		"DIREKOMENDASIKAN", "MUNGKIN", dan "PILIHAN". Dalam dokumen ini harus ditafsirkan seperti yang 
+ 		dijelaskan dalam RFC 2119.
+
+	Perhatikan kekuatan dari kata-kata ini dimodifikasi oleh tingkat persyaratan dokumen yang di gunakan.
+
+1. HARUS(MUST) kata ini, atau istilah "WAJIB (REQUIRED)","BOLEH (SHALL)", bahwa definisi kalimat tersebut adalah persyaratan mutlak dari spesifikasi.
+2. TIDAK HARUS (MUST NOT) frasa ini, atau frasa "TIDAK BOLEH (SHALL NOT)", mendefinisikan bahwa kalimat tersebut adalah larangan absolut dari spesifikasi.
+
 
 	
 
