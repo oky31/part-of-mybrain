@@ -30,8 +30,31 @@ Abstrak
 
 	Perhatikan kekuatan dari kata-kata ini dimodifikasi oleh tingkat persyaratan dokumen yang di gunakan.
 
-1. HARUS(MUST) kata ini, atau istilah "WAJIB (REQUIRED)","BOLEH (SHALL)", bahwa definisi kalimat tersebut adalah persyaratan mutlak dari spesifikasi.
-2. TIDAK HARUS (MUST NOT) frasa ini, atau frasa "TIDAK BOLEH (SHALL NOT)", mendefinisikan bahwa kalimat tersebut adalah larangan absolut dari spesifikasi.
+	1. HARUS(MUST) kata ini, atau istilah "WAJIB (REQUIRED)","BOLEH (SHALL)", 
+	   bahwa definisi kalimat tersebut adalah persyaratan mutlak dari spesifikasi.
+
+	2. TIDAK HARUS (MUST NOT) frasa ini, atau frasa "TIDAK BOLEH (SHALL NOT)", 
+	   mendefinisikan bahwa kalimat tersebut adalah larangan absolut dari spesifikasi.
+
+	3. SEBAIKNYA(SHOULD) kata ini, atau kata "DIREKOMENDASIKAN(RECOMMENDED)", berarti bahwa mungkin ada 
+	   alasan yang sah dalam keadaan tertentu untuk mengabaikan item tertentu, tetapi implikasi penuh harus
+	   dipahami dan ditimbang dengan hati-hati sebelum memilih arah yang berbeda.
+
+	4. JANGAN(SHOULD NOT) prasa ini, atau prasa "TIDAK DIREKOMENDASIKAN(NOT RECOMMENED)" berarti bahwa 
+	   mungkin ada alasan yang sah dalam keadaan tertentu ketika prilaku tertentu dapat di terima atau 
+	   bahkan bermanfaat, tetapi implikasi penuh harus dipahami dan kasus ditimbang dengan cermat sebelum
+	   menerapkan prilaku apa pu yang di uraikan dengan label ini.
+
+	5. MUNGKIN(MAY) kata ini, atau kata sifat "PILIHAN(OPTIONAL)", berarti item itu benar-benar pilihan.
+	   Satu vendor mungkin memili untuk memasukan sebuah item karena beberapa pasar membutuhkan itu atau
+	   karena vendor merasa itu bisa meningkatkan produk ketika vendor lain mengkin menghilangkan item 
+	   yang sama. Sebuah implementasi yang tidak termasuk beberapa pilihan HARUS di persiapkan untuk 
+	   interoperate dengan implementasi lain yang termasuk di dalam pilihan, meskipun mungkin dikurangi
+	   fungsionalitasnya. Didalam implementasi yang sama mencakup opsi tertentu HARUS siap untuk
+	   berinteropersai dengan implementasi lain yang tidak termasuk opsi(kecuali untuk fiture yang 
+	   disediakan opsi.)
+
+
 
 
 	
