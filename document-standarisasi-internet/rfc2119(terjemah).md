@@ -28,7 +28,7 @@ Abstrak
 		"DIREKOMENDASIKAN", "MUNGKIN", dan "PILIHAN". Dalam dokumen ini harus ditafsirkan seperti yang 
  		dijelaskan dalam RFC 2119.
 
-	Perhatikan kekuatan dari kata-kata ini dimodifikasi oleh tingkat persyaratan dokumen yang di gunakan.
+Perhatikan kekuatan dari kata-kata ini dimodifikasi oleh tingkat persyaratan dokumen yang di gunakan.
 
 	1. HARUS(MUST) kata ini, atau istilah "WAJIB (REQUIRED)","BOLEH (SHALL)", 
 	   bahwa definisi kalimat tersebut adalah persyaratan mutlak dari spesifikasi.
