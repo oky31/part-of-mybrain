@@ -54,8 +54,40 @@ Perhatikan kekuatan dari kata-kata ini dimodifikasi oleh tingkat persyaratan dok
 	   berinteropersai dengan implementasi lain yang tidak termasuk opsi(kecuali untuk fiture yang 
 	   disediakan opsi.)
 
+	6. Panduan dalam mengunakan panduan Imperatif ini
 
+	   Imperatif yang didefinisikan dalam memo ini harus digunakan dengan hati-hati dan hemat. 
+	   Khurusnya, kata HARUS(MUST) hanya bisa digunakan ketika benar-benar di butuhkan untuk interoperasi
+	   atau batasan tingkah laku yang memiliki potensi berbahaya (contoh., pembatasan retransmisi).
+	   Sebagai contoh, kata ini tidak boleh digunakan untuk menerapkan metode tertentu pada sebuah
+	   penerapan di mana metode ini tidak diperlukan untuk interoperabilitas.
 
+	7. Pertimbangan Keamanan
+
+	   Istilah ini sering digunakan untuk menentukan tingkahlaku dengan implikasi keamanan. 
+	   Efek pada keamanan tidak menerapkan HARUS(MUST) atau WAJIB(SHOULD), atau melakukan spesifikasi 
+	   dengan TIDAK HARUS(MUST NOT) atau TIDAK WAJIB(SHOULD NOT) dilakukan mungkin sangat halus.
+	   Pemilik dokument harus mengunakan waktu untuk menguraikan implikasi keamanan yang tidak mengikuti
+	   rekomendasi atau persyaratan karena kebanyakan pelaksana tidak akan mendapat manfaat dari pengalaman
+	   dan diskusi yang menghasilkan spesifikasi.
+
+	8. Ucampan Terimakasih
+	   
+	   Definisi instilah-istilah ini merupakan campuran definisi yang diambil dari sejumlah dokument RFC.
+	   selain itu, saran telah di masukan dari sejumlah orang termasuk Robert Ullmann, Thomas Narten, 
+	   Neal McBurnett, dan Robert Elz.
+
+	9. Alamat Penulis
+
+	   Scott Bradner
+       Harvard University
+       1350 Mass. Ave.
+       Cambridge, MA 02138
+
+       phone - +1 617 495 3864
+
+       email - sob@harvard.edu
+	
 
 	
 
