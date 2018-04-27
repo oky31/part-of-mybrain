@@ -10,3 +10,5 @@
 		   inheritance dengan single table\
            inheritance, satu tabel per class
 - pelajari Apa itu mass assignment? Apa problemnya?
+- baca buku The Art of UNIX Programming 
+- baca buku Art of Computer Programming
