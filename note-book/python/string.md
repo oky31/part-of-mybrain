@@ -1,10 +1,10 @@
 # String 
-Setiap string didalam python di nyatakan dalam  tanda yaitu\n
+Setiap string didalam python di nyatakan dalam  tanda yaitu
 	
-	'...' -> tanda kutip tunggal\n
-	"..." -> tanda kutip ganda\n 
-	'''...''' -> tanda kutip tunggal triple\n
-	"""...""" -> tanda kutip double triple\n
+	'...' -> tanda kutip tunggal
+	"..." -> tanda kutip ganda 
+	'''...''' -> tanda kutip tunggal triple
+	"""...""" -> tanda kutip double triple
 
 
 untuk membuat string mudah di baca gunakan fungsi **print()**, fungsi ini \n
