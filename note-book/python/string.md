@@ -49,3 +49,27 @@ untuk menampilkan string dengan banyak baris ada baiknya gunakan tanda
 ## Mengabungkan (concate) dan Mengulangi String
 Pengabungan 2 buah string mengunakan operator **+**, Pengulangan string 
 mengunakan operator __*__.
+
+## Index di dalam string
+Setiap string di dalam python memiliki index, setiap index di mulai dari
+angka 0, index bisa berupa angka negatif yang berarti perhitungan index
+dimulai dari kanan.
+
+## Memotong String (slicing string)
+Menampilkan sebagian dari string bisa mengunakan index yang di butuhakan
+hanya index awal dan index akhir contoh:
+
+	word = 'belajar python'
+	word[0:2]		# karakter dari posisi 0 sampai 2, tetapi tidak termasuk posisi 2
+
+ketika hanya ingin memotong string yang sudah pasti di mulai dari index awal
+bisa mengunakan cara singkat yaitu :
+
+	word = 'belajar python'
+	word[:2]		# karakter dari posisi 0 sampai 2, tetapi tidak termasuk posisi 2
+	word[2:]		# karakter dari posisi 0 sampai posisi akhir dari string
+	word[-2:]		# karakter dari posisi -2 sampai posisi akhir dari string
+	word[:-2]		# karakter dari posisi index awal string sampai posisi -2 tidak termasuk posisi 2
+
+## Python string abadi(immutable) tidak bisa di rubah
+

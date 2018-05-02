@@ -12,3 +12,5 @@
 - pelajari Apa itu mass assignment? Apa problemnya?
 - baca buku The Art of UNIX Programming 
 - baca buku Art of Computer Programming
+- pelajari tentang ssh prototcol dan OpenSSH
+- pelajari tentang ufw (firewall)
