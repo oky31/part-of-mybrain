@@ -12,5 +12,10 @@
 - pelajari Apa itu mass assignment? Apa problemnya?
 - baca buku The Art of UNIX Programming 
 - baca buku Art of Computer Programming
+<<<<<<< HEAD
 - pelajari tentang ssh prototcol dan OpenSSH
 - pelajari tentang ufw (firewall)
+=======
+- pelajari tentang regular expression.
+- pelajari routing di php.
+>>>>>>> 60cff26267d9aa5b49344217c2b31f46f18e510b
